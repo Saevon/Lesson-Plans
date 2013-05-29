@@ -1,0 +1,74 @@
+Coding
+
+
+Basic Coding:
+[ ] variables
+[ ] if
+[ ] while / for / do
+[ ] function
+[ ] Inheritance
+	[ ] class
+	[ ] struct
+	[ ] constructor
+	[ ] method
+	[ ] instance variables
+
+[ ] scope
+[ ] Escape char
+[ ] Exceptions
+[ ] assertion
+
+[ ] Recursion
+[ ] Memoization
+[ ] Polymorphism
+[ ] duck-typing
+
+
+
+Working in different Languages
+[ ] Dynamic vs Static typing
+[ ] strongly typed vs weakly typed
+
+
+
+Coding Styles and Conformity
+[ ] PEP8
+[ ] Local code
+[ ] documentation vs comments
+
+
+
+Debugging
+[ ] How to see into your code
+	[ ] printlining
+	[ ] logging
+	[ ] debugging
+[ ] How to isolate bugs
+[ ] Properly fixing bugs
+[ ] Testing
+	[ ] basic tests
+	[ ] Regression tests
+	[ ] Integration tests
+	[ ] Continuous Integration (Concept)
+
+
+
+Python Awesome
+[ ] help
+[ ] with
+[ ] lambda
+[ ] decorator
+[ ] try / except / finally / else
+[ ] list / dict comprehension
+[ ] Generators
+
+
+
+Commandline & Misc
+[ ] Versions
+[ ] Virtual Environments
+	[ ] virtualenv
+	[ ] virtualenvwrapper
+	[ ] pip
+	[ ] syspip
+	[ ] easy_install / setuptools / distribute

@@ -1,0 +1,49 @@
+Paradigms
+
+
+Functional
+[ ] Concept
+[ ] higher order functions
+	[ ]	map
+	[ ] reduce
+	[ ] filter
+	[ ] zip
+[ ] Proper Design and Usage
+
+
+
+OOP
+[ ] Concept
+[ ] Types
+[ ] Instance Variables
+[ ] Privacy
+[ ] Class Variables
+[ ] methods
+[ ] staticmethods
+[ ] classmethods
+[ ] (Python) property
+[ ] Interface
+[ ] Abstract
+[ ] Proper Design and Usage
+
+
+
+Algorithms
+[ ] Binary Search
+
+
+
+Design Patterns
+[ ] Creation
+	[ ] Factory
+	[ ] Singleton
+[ ] Overview
+	[ ] Interface
+	[ ] Bridge
+	[ ] Adapter
+	[ ] Composite
+	[ ] Strategy
+	[?] Command
+	[?] Memento
+
+

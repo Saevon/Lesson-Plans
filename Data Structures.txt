@@ -1,0 +1,19 @@
+Data Structures
+
+
+[ ] Array
+[ ] Linked List
+
+[ ] Hash / dict / map
+
+[ ] immutables vs muttables
+
+[ ] Pointers
+
+[ ] Tree
+[ ] Cyclic structures
+
+[ ] functions
+	[ ] Callback
+	[ ] decorator
+	[ ] lambda

@@ -1,0 +1,49 @@
+Unix
+
+
+Bash
+[ ] man
+[ ] cd ls pwd
+[ ] rm rmdir touch mkdir cp mv
+[ ] sudo
+[ ] less / tail / head
+[ ] clear
+
+[ ] cat / echo
+[ ] vim / nano
+[ ] grep / ack
+
+[ ] which / whatis
+
+[ ] ssh ssh-keygen scp
+	[ ] sshfs
+[ ] zip / uzip / tar
+[ ] curl / wget / nc
+
+
+
+Processes
+[ ] PID
+	[ ] ps
+	[ ] kill / killall
+
+
+
+Makefiles
+[ ] make
+
+
+
+File System
+[ ] inodes
+[ ] links
+[ ] Permissions
+	[ ] chmod / chown
+[ ] Volumes
+[ ] mount, sshfs, umount, fusermount
+
+
+
+Other shells
+[ ] Concepts / what to do
+

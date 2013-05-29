@@ -1,0 +1,28 @@
+Source Control
+
+
+ * Commands are lower-case, concepts are upper-case
+
+[ ]  git / svn / mercurial
+
+[ ] init/clone
+[ ] Staging
+	[ ] status
+	[ ] diff
+	[ ] add / rm
+	[ ] reset / checkout
+	[ ] clean
+[ ] Commiting
+	[ ] commit
+	[ ] Proper Message format
+	[ ] pull / push
+[ ] revert
+[ ] log
+[ ] Branching / Merging
+	[ ] update
+	[ ] merge
+	[ ] pull vs fetch & merge
+	[ ] Git Branching Model
+[ ] rebase
+[ ] tag
+[ ] Pull-Requests
