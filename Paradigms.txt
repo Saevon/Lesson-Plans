@@ -37,11 +37,14 @@ Design Patterns
 [ ] Creation
 	[ ] Factory
 	[ ] Singleton
-[ ] Overview
+[ ] Structural
 	[ ] Interface
 	[ ] Bridge
 	[ ] Adapter
 	[ ] Composite
+	[ ] Proxy
+[ ] Behavioural
+	[ ] Iterator
 	[ ] Strategy
 	[?] Command
 	[?] Memento

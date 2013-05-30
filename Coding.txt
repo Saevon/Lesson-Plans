@@ -2,9 +2,9 @@ Coding
 
 
 Basic Coding:
-[ ] variables
-[ ] if
-[ ] while / for / do
+[x] variables
+[x] if
+[x] while / for / do
 [ ] function
 [ ] Inheritance
 	[ ] class
@@ -13,6 +13,7 @@ Basic Coding:
 	[ ] method
 	[ ] instance variables
 
+[ ] Closure
 [ ] scope
 [ ] Escape char
 [ ] Exceptions

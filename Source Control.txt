@@ -3,7 +3,7 @@ Source Control
 
  * Commands are lower-case, concepts are upper-case
 
-[ ]  git / svn / mercurial
+[x]  git / svn / mercurial
 
 [ ] init/clone
 [ ] Staging
